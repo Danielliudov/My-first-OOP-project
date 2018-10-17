@@ -1,0 +1,5 @@
+Stranglethorn Valley
+threeMap
+50 650
+Shadowmaw-Panther 400 650
+King-Bangalash 800 650

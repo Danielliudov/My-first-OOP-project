@@ -1,0 +1,5 @@
+Hellfire Peninsulla
+sixMap
+50 650
+Mo'Gorosh-Ogre 400 650
+Hahk'Zor 800 650
